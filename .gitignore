@@ -1,3 +1,9 @@
+.*.swp
+*.lst
+*.lss
+*.bin
+*.hex
+
 # Compiled Object files
 *.slo
 *.lo
@@ -10,3 +16,9 @@
 *.lai
 *.la
 *.a
+
+# Eagle temporary files ignores
+*.l\#?
+*.s\#?
+*.b\#?
+
